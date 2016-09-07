@@ -16,3 +16,8 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
 Hello world My name is Naga Rimmalapudi.
 Hello world My name is Naga Rimmalapudi.
 Hello world My name is Naga Rimmalapudi.
+
+Instructor Name: Richard Freeman
+Instructor Name: Richard Freeman
+Instructor Name: Richard Freeman
+
